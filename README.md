@@ -10,6 +10,4 @@ LinkedIn,
 Email,
 Instagram,
 Github,
-Github-Fork,
-
-contact rio.karim@gmail.com for further requests.
+Github-Fork
